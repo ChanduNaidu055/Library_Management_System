@@ -2,6 +2,8 @@
 
 A robust RESTful backend for a Library Management System utilizing Role-Based Access Control, JWT authentication, and MongoDB.
 
+**Live Link** : "https://library-management-system-r6lw.onrender.com"
+
 ## Tech Stack
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (via Mongoose)
